@@ -1,0 +1,23 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;}
+
+.App{
+display: flex;
+flex-direction: column;
+margin: 100px;
+flex-wrap: wrap;
+width: 100svw;
+height: 100svh;
+}
+.usercard{
+display: flex;
+flex-direction: column;
+padding: 100px;
+background-color: aliceblue;
+border-radius: 5px;
+border: rgb(226, 226, 226) thin;
+width: 30%;
+margin: 20px;
+}
